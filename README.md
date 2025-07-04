@@ -1,0 +1,1 @@
+este é um projeto onde estarei aprofundando meus conhecimento em java springboot, começar com angular e utilizar microserviços, atualmente estou focando no basico do back-end, onde estarei  colocando para poder criar, excluir, atualizar e ver as receitas criadas,
